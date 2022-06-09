@@ -6,5 +6,3 @@ It prints 3 results
 3. The top 20 rows with the highest profit value
 
 It also produces a data2.json file
-
-SQL Manipulation
